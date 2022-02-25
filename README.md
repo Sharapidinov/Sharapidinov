@@ -13,13 +13,8 @@
 <h3 align="center">A frontend developer from Kyrgizstan</h3>
 
 <h3 align="left">Connect with me:</h3> 
-    <a href="austie2204@gmail.com" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/google-gmail.svg" alt="gmail" width="40" height="40"/> </a> 
     <a href="https://t.me/Sharapidinov\" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/telegram.svg" alt="gmail" width="40" height="40"/> </a> 
     
-
-<p align="left">
-</p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
