@@ -10,10 +10,10 @@
 
 <br>
 
-<h3 align="center">A passionate frontend developer from Kyrgizstan</h3>
+<h3 align="center">A frontend developer from Kyrgizstan</h3>
 
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="left">Connect with me:</h3> 
+    <a href="austie2204@gmail.com" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/google-gmail.svg" alt="gmail" width="40" height="40"/> </a> 
 
 
 <p align="left">
